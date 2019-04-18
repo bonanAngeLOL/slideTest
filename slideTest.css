@@ -1,0 +1,17 @@
+.slideImg{
+	position: absolute;
+    display: inline-block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    user-select: none;
+}
+.screen-p{
+	content: " ";
+    position: absolute;
+    display: block;
+    background: #6666668f;
+    z-index: 2000;
+}
